@@ -1,7 +1,3 @@
-Certainly! Here's the description in GitHub README format:
-
-markdown
-Copy code
 # PySpark Practice Files Repository
 
 Welcome to my PySpark Practice Files Repository!
